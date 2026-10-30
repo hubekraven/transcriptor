@@ -1,0 +1,7 @@
+bin/
+.vscode/
+venv/
+resultat/
+output/
+*.pyc
+\_*
